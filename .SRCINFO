@@ -1,0 +1,11 @@
+pkgbase = rknn-toolkit2
+pkgdesc = RKNN software stack can help users to quickly deploy AI models to Rockchip chips.
+pkgver = 1.6.0
+pkgrel = 1
+url = https://github.com/airockchip/rknn-toolkit2
+arch = aarch64
+license = BSD
+depend = python-opencv
+depend = python-ruamel-yaml
+depend = python-psutil
+source = git+https://github.com/airockchip/rknn-toolkit2

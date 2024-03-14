@@ -1,0 +1,7 @@
+*.tar.zst
+*.tar.xz
+*.zip
+
+pkg
+src
+rknn-toolkit2
